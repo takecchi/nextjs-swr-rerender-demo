@@ -9,6 +9,6 @@ npm install
 npm run dev
 ```
 
-## 
+## 動作確認
 https://github.com/takecchi/nextjs-swr-rerender-demo/assets/68576095/278c98c4-1c95-4eb0-af95-8526cc7cc451
 
